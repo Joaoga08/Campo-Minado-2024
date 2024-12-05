@@ -15,7 +15,9 @@ public class GameManager : MonoBehaviour
     Area[,] areas;
 
     [SerializeField] GameObject AreaPrefab;
-
+    /// <summary>
+    /// fdedf
+    /// </summary>
     int diametroDoCampo;
     int numeroDeBombas;
 
